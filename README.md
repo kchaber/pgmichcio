@@ -1,4 +1,4 @@
-# PgHero
+# PgMichcio
 
 A performance dashboard for Postgres
 
